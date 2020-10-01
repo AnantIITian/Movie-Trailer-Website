@@ -7,7 +7,7 @@ fandf8 = project.movie("Fast 8", "http://www.fotolip.com/wp-content/uploads/2016
 inters = project.movie("Interstellar","http://www.movienewz.com/img/gallery/interstellar/posters/interstellar_movie_poster_4.jpg","https://www.youtube.com/watch?v=0vxOhd4qlnA","2014","8.6")
 darkknight = project.movie("The Dark Knight","https://akalol.files.wordpress.com/2008/08/new-joker-poster-for-the-dark-knight.jpg","https://www.youtube.com/watch?v=_PZpmTj1Q8Q","2008","9.0")
 nysm = project.movie("Now You See Me","https://image.tmdb.org/t/p/original/hGsi9bPp4PEQANCUxswQDLymJag.jpg","https://www.youtube.com/watch?v=4OtM9j2lcUA","2013","7.3")
-dil Bechara = project.movie("Dil Bechara", "https://filmyzilla.monster/server/5136/Dil-bechara-2020-bollywood-full-movie-hdrip.mp4.html", "https://youtu.be/QTaRXv1f1HA","2020", "7.8")
+Dil Bechara = project.movie("Dil Bechara", "https://filmyzilla.monster/server/5136/Dil-bechara-2020-bollywood-full-movie-hdrip.mp4.html", "https://youtu.be/QTaRXv1f1HA","2020", "7.8")
 MS Dhoni:the untold story = project.movie("MS Dhoni: the untold story", "https://freehqfullmoviesdownload.blogspot.com/2016/10/ms-dhoni.html", "https://youtu.be/CJEAKC1KOgs","2016","7.8")
 Khuda Hafiz = project.movie("Khuda Hafiz", "https://ekumkum.com/blog/khuda-hafiz-full-movie-download-720p-filmyzilla/", "2020","7.2")
 movies = [three_idiots, fandf7, fandf8, inters, darkknight, nysm, Dil Bechara, MS Dhoni:the untold story, Khuda Hafiz]
